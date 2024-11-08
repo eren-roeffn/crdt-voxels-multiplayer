@@ -15,3 +15,5 @@ Generated documentation for crdt-voxels-multiplayer.
 # PR Merge: 2025-10-19 - feature/merge-3692
 
 # PR Merge: 2025-10-19 - feature/merge-3116
+
+# PR Merge: 2025-10-19 - enhancement/merge-2586
